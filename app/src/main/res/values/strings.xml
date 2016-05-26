@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyeleViewTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="age">年龄</string>
+    <string name="name">默认线性布局recyclerView</string>
+    <string name="jump">跳转到gridView布局recyclerView</string>
+    <string name="title_activity_grid_view_recycle">Grid_View_Recycle</string>
+</resources>
